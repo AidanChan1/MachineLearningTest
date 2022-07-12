@@ -1,7 +1,7 @@
 # MachineLearningTest
 
 ## Author
-AiDan Chan <aidan.chan.ac@gmail.com>
+Aidan Chan <aidan.chan.ac@gmail.com>
 
 ## Purpose
 Testing around, learning numpy, matplotlib, scipy, python, jupyter, everything
